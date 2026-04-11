@@ -1,3 +1,5 @@
+# Create a class Animal with method speak(). Create Dog class that inherits and overrides it.
+
 class Animal:
     
     def __init__(self,name):
