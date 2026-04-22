@@ -3,7 +3,7 @@
 class Father:
     
     def __init__(self):
-        self.father_name ="Sirajddin"
+        self.father_name ="Sirajuddin"
         self.father_age = "60"
     
     def show_father(self):
