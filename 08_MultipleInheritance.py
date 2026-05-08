@@ -19,3 +19,5 @@ my_tesla = ElectricCar()
 print(my_tesla.class_info())
 print(my_tesla.engine_info())
 print(my_tesla.battery_info())
+
+c1 = Car()
